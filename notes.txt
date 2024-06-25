@@ -1,3 +1,4 @@
+Here is one more first line.
 Here is a brand new first line.
 This is to test out Git.
 
